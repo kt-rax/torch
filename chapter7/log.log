@@ -1,0 +1,152 @@
+2021-11-22 15:52:27,435 evaluate_cnn_eng.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 15:52:27,441 evaluate_cnn_eng.py[line:(lineo)d] INFO lang loaded.
+2021-11-22 15:52:39,004 evaluate_cnn_eng.py[line:(lineo)d] INFO model loaded.
+2021-11-22 15:52:39,082 model.py[line:(lineo)d] ERROR 'GRU' object has no attribute '_flat_weights'
+2021-11-22 16:02:20,037 __init__.py[line:(lineo)d] DEBUG Building prefix dict from the default dictionary ...
+2021-11-22 16:02:20,633 __init__.py[line:(lineo)d] DEBUG Dumping model to file cache /tmp/jieba.cache
+2021-11-22 16:02:20,688 __init__.py[line:(lineo)d] DEBUG Loading model cost 0.650 seconds.
+2021-11-22 16:02:20,688 __init__.py[line:(lineo)d] DEBUG Prefix dict has been built successfully.
+2021-11-22 16:04:22,672 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 16:04:22,678 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 16:04:23,055 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 16:06:14,662 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 16:06:14,671 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 16:06:15,068 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 16:07:57,065 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 16:07:58,779 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 16:08:02,701 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:19:35,483 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:19:35,494 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:19:35,919 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:28:48,221 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:28:48,235 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:28:48,609 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:33:22,763 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:33:22,780 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:33:29,855 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:38:43,650 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:38:43,665 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:38:50,499 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:41:21,771 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:41:21,780 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:41:22,135 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:41:22,171 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:41:22,180 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:42:26,947 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:42:26,959 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:42:27,359 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:42:27,394 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:42:27,408 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:42:27,425 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:42:27,433 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:42:49,145 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:42:49,156 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:42:49,501 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:42:49,538 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:42:49,551 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:42:49,571 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:42:49,582 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:42:49,593 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:42:49,601 chapter7.6.py[line:(lineo)d] INFO ['他的年龄是她的两倍。', 'he is twice as old as she is.']
+2021-11-22 17:42:49,615 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:42:49,624 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:43:29,818 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:43:29,829 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:43:30,222 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:43:30,263 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:43:30,274 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:43:30,292 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:43:30,302 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:43:30,314 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:43:30,323 chapter7.6.py[line:(lineo)d] INFO ['我們明天要離開。', 'we are going to leave tomorrow.']
+2021-11-22 17:43:30,331 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:43:30,341 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:43:30,434 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:44:57,031 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:44:57,044 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:44:57,410 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:44:57,448 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:44:57,458 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:44:57,478 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:44:57,491 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:44:57,501 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:44:57,510 chapter7.6.py[line:(lineo)d] INFO ['他把他的鉛筆放在他的耳朵後面。', 'he stuck his pencil behind his ear.']
+2021-11-22 17:44:57,521 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:44:57,530 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:44:57,567 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:45:28,497 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:45:28,509 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:45:28,955 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:45:28,995 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:45:29,005 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:45:29,031 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:45:29,044 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:45:29,056 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:45:29,068 chapter7.6.py[line:(lineo)d] INFO ['他们都是天真的孩子。', 'they are all innocent children.']
+2021-11-22 17:45:29,078 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:45:29,087 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:45:29,124 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:47:52,717 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:47:52,726 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:47:53,082 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:47:53,120 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:47:53,134 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:47:53,157 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:47:53,171 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:47:53,188 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:47:53,204 chapter7.6.py[line:(lineo)d] INFO ['她在处理问题。', 'she is working on the problem.']
+2021-11-22 17:47:53,221 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:47:53,239 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:47:53,281 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:48:38,445 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:48:38,458 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:48:38,815 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:48:38,850 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:48:38,866 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:48:38,894 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:48:38,909 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:48:38,921 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:48:38,935 chapter7.6.py[line:(lineo)d] INFO ['在這次考試中我犯了幾個錯誤。', 'i made several mistakes in the exam.']
+2021-11-22 17:48:38,949 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:48:38,965 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:48:39,009 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:48:45,327 model.py[line:(lineo)d] ERROR batch2 must be a 3D tensor
+2021-11-22 17:50:36,083 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:50:36,096 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:50:36,560 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:50:36,597 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:50:36,614 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:50:36,635 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:50:36,647 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:50:36,659 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:50:36,673 chapter7.6.py[line:(lineo)d] INFO ['他射了鹿一箭。', 'he shot an arrow at the deer.']
+2021-11-22 17:50:36,685 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:50:36,699 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:50:36,736 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:50:43,284 model.py[line:(lineo)d] ERROR batch2 must be a 3D tensor
+2021-11-22 17:51:27,598 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:51:27,620 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:51:34,414 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:51:45,638 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:51:45,662 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:51:45,734 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:51:45,754 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:51:45,777 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:51:45,802 chapter7.6.py[line:(lineo)d] INFO ['她總是穿著黑色的衣服。', 'she is always dressed in black.']
+2021-11-22 17:51:45,828 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:51:45,852 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:51:45,917 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:51:56,070 model.py[line:(lineo)d] ERROR batch2 must be a 3D tensor
+2021-11-22 17:52:33,752 chapter7.6.py[line:(lineo)d] INFO use cuda:True
+2021-11-22 17:52:33,776 chapter7.6.py[line:(lineo)d] INFO eng -> cmn
+2021-11-22 17:52:36,607 process.py[line:(lineo)d] INFO Read 19578 sentence pairs
+2021-11-22 17:52:36,699 process.py[line:(lineo)d] INFO Trimmed to 724 sentence pairs
+2021-11-22 17:52:36,723 process.py[line:(lineo)d] INFO Counting words ...
+2021-11-22 17:52:36,792 process.py[line:(lineo)d] INFO Counted words:
+2021-11-22 17:52:36,819 process.py[line:(lineo)d] INFO cmn,1062
+2021-11-22 17:52:36,845 process.py[line:(lineo)d] INFO eng,1118
+2021-11-22 17:52:36,868 chapter7.6.py[line:(lineo)d] INFO ['我在大學主修哲學。', 'i majored in philosophy at my university.']
+2021-11-22 17:52:36,896 chapter7.6.py[line:(lineo)d] INFO input_lang.n_word: 1062
+2021-11-22 17:52:36,923 chapter7.6.py[line:(lineo)d] INFO input_lang.n_words: 1118
+2021-11-22 17:52:36,977 chapter7.6.py[line:(lineo)d] INFO train start. 
+2021-11-22 17:52:47,243 model.py[line:(lineo)d] ERROR batch2 must be a 3D tensor
